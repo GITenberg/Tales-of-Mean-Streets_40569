@@ -1,0 +1,32 @@
+_repo: Tales-of-Mean-Streets_40569
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40569-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Morrison, Arthur
+    birthdate: 1863
+    deathdate: 1945
+    gutenberg_agent_id: '3903'
+    url: http://www.gutenberg.org/2009/agents/3903
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Morrison
+description: ''
+gutenberg_issued: '2012-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40569'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Social life and customs -- Fiction'
+- !lcsh 'East End (London, England) -- Fiction'
+- !lcc 'PR'
+tableOfContents: Introduction to the American edition -- Introduction -- Lizerunt
+  -- Without visible means -- To Bow bridge -- That brute Simmons -- Behind the shade
+  -- Three rounds -- In business -- The red cow group -- On the stairs -- Squire Napper
+  -- "A poor stick" -- A conversion -- "All that messuage."
+title: Tales of Mean Streets
+url: http://www.gutenberg.org/ebooks/40569
